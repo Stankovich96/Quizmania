@@ -9,6 +9,7 @@ function App() {
 				<img src={logo} className='App-logo' alt='logo' />
 				<h1>Quizmania</h1>
 				<input type='text' name='' id='' placeholder='Enter your name' />
+				<input type='email' name='' id='' placeholder='Enter your email' />
 				<button type='submit' name='Proceed'></button>
 				<p>The Ultimate Quiz Application loading .......</p>
 				{/* <a
